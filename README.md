@@ -13,8 +13,24 @@
 
 ## 🧠 Skills & Tools
 
+### 💻 Programming & Web
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash,python,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=c,python,html,css,js" />
+</p>
+
+### ⚙️ DevOps & System
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,docker,nginx,bash,powershell" />
+</p>
+
+### 🛠️ Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
+</p>
+
+### 📱 Mobile Development
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=androidstudio" />
 </p>
 
 ## 📬 Connect with me
