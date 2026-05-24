@@ -11,6 +11,31 @@
 - ⚙️ Interested in Secure Infrastructure
 - 🎯 Goal: Become a DevSecOps Engineer
 
+## 💼 Experience
+
+### 🏢 Development Intern
+**Crafty Soft** | 1 Month  
+- Completed a one-month internship in software development.
+- Gained practical experience in a professional development environment.
+- Improved my skills in coding, teamwork, and problem-solving.
+
+### 🛡️ Network & Security Intern
+**IRS Technology** | 1 Month  
+- Completed a one-month internship in networking and security.
+- Learned about network security concepts and firewall usage.
+- Gained practical experience with IT infrastructure, troubleshooting, and secure networking.
+
+## 📜 Certifications & Training
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CCNA%202-Academic%20Training-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
+  &emsp;
+  <img src="https://img.shields.io/badge/Sophos%20Firewall-Certified%20Engineer%20v22.0-005DAA?style=for-the-badge&logo=sophos&logoColor=white" />
+</p>
+
+- 📘 CCNA 2 Academic Training - ISET Sfax
+- 🛡️ Sophos Firewall Certified Engineer v22.0 (ET80)
+
 ## 🧠 Skills & Tools
 
 ### 💻 Programming & Web
@@ -26,6 +51,10 @@
 ### 🛠️ Tools & Platforms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows" />
+  &emsp;
+  <img src="https://cdn.simpleicons.org/vmware/607078" height="48" />
+  &emsp;
+  <img src="https://cdn.simpleicons.org/virtualbox/183A61" height="48" />
 </p>
 
 ### 📱 Mobile Development
