@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi,+I+am+Youssef+Jammoussi;Networking+Student;DevOps+Learner;Open+Source+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi,+I+am+Youssef+Jammoussi;Networking+Student;DevSecOps+Learner;Cybersecurity+Learner" />
 </p>
 
 ## 🚀 About Me
@@ -7,9 +7,9 @@
 💡 This is the place where I build, learn and share open-source projects.
 
 - 🎓 Networking student at ISET Sfax
-- 🌱 Learning DevOps / Docker / Linux
-- ⚙️ Interested in Infrastructure & Monitoring
-- 🎯 Goal: Become a DevOps Engineer
+- 🌱 Learning DevSecOps / Cybersecurity
+- ⚙️ Interested in Secure Infrastructure
+- 🎯 Goal: Become a DevSecOps Engineer
 
 ## 🧠 Skills & Tools
 
